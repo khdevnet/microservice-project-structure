@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-#Prerequisite
+# Prerequisite
 * [Clean Architecture (aka Onion, Hexagonal, Ports-and-Adapters) ](https://www.youtube.com/watch?v=lkmvnjypENw&t=848s)
 * [Onion architecture](https://laptrinhx.com/onion-architecture-4219738984/)
 * [Microsoft eShopWeb sample](https://github.com/dotnet-architecture/eShopOnWeb/tree/main/src)
